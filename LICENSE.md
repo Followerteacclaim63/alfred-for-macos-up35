@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS addon with vip Alfred for macOS Addon | quick search + offline access. Featuring quick search and offline access, it's the best choice for macOS
 
 
 
